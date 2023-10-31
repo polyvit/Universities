@@ -1,7 +1,8 @@
 {
-  "name": "lesson-54-part-5-video",
+  "name": "universities",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://polyvit.github.io/Universities/",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -9,7 +10,9 @@
     "test": "jest",
     "test-watch": "jest --watchAll",
     "test-coverage": "jest --coverage --colors",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "keywords": [],
   "author": "",
