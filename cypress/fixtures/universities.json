@@ -1,0 +1,14 @@
+[
+  {
+    "country": "Ireland",
+    "domains": ["dcu.ie"],
+    "name": "Dublin City University",
+    "web_pages": ["http://www.dcu.ie/"]
+  },
+  {
+    "country": "Ireland",
+    "domains": ["iiuedu.ie"],
+    "name": "Irish International University (Distance Education)",
+    "web_pages": ["http://www.iiuedu.ie/"]
+  }
+]
